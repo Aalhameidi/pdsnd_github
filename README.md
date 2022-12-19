@@ -11,7 +11,7 @@ Bikeshare.py project
 in the python bike share project we attempted to answer interesting questions about it by computing descriptive statistics. 
 
 ### Files used
-Include the files used
+used the Chicago.csv, new_york_city.csv and washington.csv files to implement the code
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
