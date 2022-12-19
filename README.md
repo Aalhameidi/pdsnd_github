@@ -8,7 +8,7 @@ Replace the Project Title
 Bikeshare.py project 
 
 ### Description
-Describe what your project is about and what it does
+in the python bike share project we attempted to answer interesting questions about it by computing descriptive statistics. 
 
 ### Files used
 Include the files used
