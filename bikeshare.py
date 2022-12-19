@@ -205,6 +205,8 @@ def Name ():
 
 def printInfo ();
     print("My name is Ather")
+    print("I'm an IS senior")
+
 
 
 
