@@ -199,7 +199,16 @@ def view_data(df):
 
         except ValueError:
             print('Enter an appropriate integer number')
-            
+
+def Name ():
+    print("your name")
+
+def printInfo ();
+    print("My name is Ather")
+    print("I'm an IS senior")
+
+
+
 
 def main():
     
