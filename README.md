@@ -2,7 +2,7 @@
 
 ### Date created
 Include the date you created this project and README file.
-This project was done on Dec 19, 2022
+This project was uploaded on December 19, 2022
 
 ### Project Title
 Replace the Project Title 
@@ -13,10 +13,6 @@ in the python bike share project we attempted to answer interesting questions ab
 
 ### Files used
 used the Chicago.csv, new_york_city.csv and washington.csv files to implement the code
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
 
 About Me:
 I'm Ather and I'm an information system senior student At PNU.
