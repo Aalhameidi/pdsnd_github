@@ -203,6 +203,10 @@ def view_data(df):
 def Name ():
     print("your name")
 
+def printInfo ();
+    print("My name is Ather")
+
+
 
 def main():
     
